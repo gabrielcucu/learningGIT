@@ -1,2 +1,3 @@
 Primul rand a fost scris de catre Andreea
-Prima modificare facuta de Gabi si andreea
+Prima modificare facuta de Gabi si andreea--uau
+Andreea o sa fie boss la python
